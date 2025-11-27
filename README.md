@@ -1,8 +1,4 @@
-# webhook_sonar_jenkins
 # SonarQube → Jenkins Webhook Integration Guide
-
-This **README.md** explains how to configure a webhook in **SonarQube** to trigger **Jenkins** once code analysis is complete — including the screenshots you provided.
-
 ---
 
 ## 📸 Screenshots

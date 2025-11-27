@@ -26,9 +26,6 @@
 ### 6. Final Webhook Confirmation
 
 ![Screenshot 120](Screenshot%20\(120\).png)
-
-> ⚠️ **Note:** When uploading to GitHub, place all images inside the repository root or `/assets/` folder. Update image paths accordingly.
-
 ---
 
 ## ✅ Prerequisites

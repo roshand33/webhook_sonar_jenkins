@@ -133,14 +133,3 @@ http://<jenkins-ip>:8080/sonarqube-webhook/
 | Duplicate `http://`            | Typo                         | Remove extra prefix     |
 
 ---
-
-## 📄 Ready for GitHub
-
-This README.md can be directly pushed to your GitHub repo.
-If you'd like:
-
-* Auto-create folder structure (`/assets/screenshots`)
-* Auto-upload images
-* Generate final GitHub repo layout
-
-Just tell me!
